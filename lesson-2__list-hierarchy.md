@@ -1,4 +1,4 @@
-Lesson 2, the cons function
+Lesson 2, list hierarchy
 
 We know `(3 4 5)` is a proper list. This means it ends with nil, aka `()`
 
