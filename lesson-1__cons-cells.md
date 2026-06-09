@@ -11,7 +11,7 @@ Each cons cell has 2 fields exactly (`car` and `cdr`), so you cannot have three.
 But you can chain two cons cells together
 `(w . (x . y))`
 
-There is a special cons cell called nil, sometimes denoted nil but often denoted as ().
+There is a special cons cell called nil, sometimes denoted `nil` but often denoted as `()`.
 
 If you have a cons cell with `()` in the `cdr` position, that is called a **proper list** of size 1.
 
