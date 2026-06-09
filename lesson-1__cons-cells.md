@@ -31,4 +31,10 @@ This is also denoted
 
 `(a b c)`
 
+which is a proper list of size 3. Note that this list actually contains 4 cons cells, because `()` is a cons cell, and every proper list ends with nil. 
+
+So you can think of this list as having an invisible nil at the end, and we can even write it that way:
+
+`(a b c . ())`
+
 ---
