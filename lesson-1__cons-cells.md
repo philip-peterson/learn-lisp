@@ -1,4 +1,4 @@
-Basic Lisp ...
+Basic Lisp ... Lesson 1, dotted pairs
 
 `(x . y)`
 
